@@ -6,5 +6,9 @@ I would appreciate any feedback and comments!
 
 Thank you
 
-## Contact
+## Contact 🪪
+
+Anini A.
+
+[Linked profile 👨🏾‍🦲](https://www.linkedin.com/in/anini-amoakon)
 
