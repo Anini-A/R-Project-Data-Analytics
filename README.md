@@ -6,9 +6,9 @@ Bellabeat is a tech-driven wellness company that makes health-focused smart prod
 
 #### Links 
 
-[Github Project link](google-data-analytics-bellabeat-project.ipynb)
+[Github link](google-data-analytics-bellabeat-project.ipynb)
 
-Posted on Kaggle with full datasets [My Kaggle project](https://www.kaggle.com/code/jeanan/google-data-analytics-bellabeat-project?kernelSessionId=124091053)
+Posted on Kaggle with full datasets [Kaggle link](https://www.kaggle.com/code/jeanan/google-data-analytics-bellabeat-project?kernelSessionId=124091053)
 
 #### Contact 🪪
 
