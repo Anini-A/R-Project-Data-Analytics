@@ -1,5 +1,9 @@
 # Google-Data-Analytics-case-study-with-R 📊
 
+## Company background
+
+Bellabeat is a tech-driven wellness company that makes health-focused smart products for women. It was founded in 2013 and has grown rapidly since then. The co-founder and Chief Creative Officer, Urška Sršen, believes that analyzing non-Bellabeat consumer data, such as FitBit usage data, would uncover opportunities for further growth.
+
 [My Project link](google-data-analytics-bellabeat-project.ipynb)
 
 Also posted on Kaggle with full datasets [My Kaggle project](https://www.kaggle.com/code/jeanan/google-data-analytics-bellabeat-project?kernelSessionId=124091053)
