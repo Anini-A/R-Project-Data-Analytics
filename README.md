@@ -4,7 +4,7 @@
 
 Bellabeat is a tech-driven wellness company that makes health-focused smart products for women. It was founded in 2013 and has grown rapidly since then. The co-founder and Chief Creative Officer, Urška Sršen, believes that analyzing non-Bellabeat consumer data, such as FitBit usage data, would uncover opportunities for further growth.
 
-#### LINKS 
+#### Links 
 
 [Github Project link](google-data-analytics-bellabeat-project.ipynb)
 
